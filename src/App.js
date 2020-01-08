@@ -22,7 +22,7 @@ export default function App() {
   const createColor = newColor => setColorData([...colorData, newColor]);
   if (!colorData.length) return <Loader />;
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/">
           <ColorList colorData={colorData} createColor={createColor} />
