@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ultimate-color-app/static/css/main.a3127dee.chunk.css",
-    "main.js": "/ultimate-color-app/static/js/main.2131922b.chunk.js",
-    "main.js.map": "/ultimate-color-app/static/js/main.2131922b.chunk.js.map",
+    "main.js": "/ultimate-color-app/static/js/main.4b9638ee.chunk.js",
+    "main.js.map": "/ultimate-color-app/static/js/main.4b9638ee.chunk.js.map",
     "runtime-main.js": "/ultimate-color-app/static/js/runtime-main.edb1681c.js",
     "runtime-main.js.map": "/ultimate-color-app/static/js/runtime-main.edb1681c.js.map",
     "static/js/2.8141010b.chunk.js": "/ultimate-color-app/static/js/2.8141010b.chunk.js",
     "static/js/2.8141010b.chunk.js.map": "/ultimate-color-app/static/js/2.8141010b.chunk.js.map",
     "index.html": "/ultimate-color-app/index.html",
-    "precache-manifest.622ff214d9e432045741595fd7c9d7c0.js": "/ultimate-color-app/precache-manifest.622ff214d9e432045741595fd7c9d7c0.js",
+    "precache-manifest.daba99cd34ea43224d4433457875cf47.js": "/ultimate-color-app/precache-manifest.daba99cd34ea43224d4433457875cf47.js",
     "service-worker.js": "/ultimate-color-app/service-worker.js",
     "static/css/main.a3127dee.chunk.css.map": "/ultimate-color-app/static/css/main.a3127dee.chunk.css.map",
     "static/js/2.8141010b.chunk.js.LICENSE": "/ultimate-color-app/static/js/2.8141010b.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.edb1681c.js",
     "static/js/2.8141010b.chunk.js",
     "static/css/main.a3127dee.chunk.css",
-    "static/js/main.2131922b.chunk.js"
+    "static/js/main.4b9638ee.chunk.js"
   ]
 }

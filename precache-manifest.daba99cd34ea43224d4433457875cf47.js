@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd1a41fdcc1fca531a5f32e78a955554",
+    "revision": "b54ea48f7aa4fa96ff8b9bd4d00be895",
     "url": "/ultimate-color-app/index.html"
   },
   {
-    "revision": "b485ea64590040e975e3",
+    "revision": "0a8aacce33e840b929f8",
     "url": "/ultimate-color-app/static/css/main.a3127dee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ultimate-color-app/static/js/2.8141010b.chunk.js.LICENSE"
   },
   {
-    "revision": "b485ea64590040e975e3",
-    "url": "/ultimate-color-app/static/js/main.2131922b.chunk.js"
+    "revision": "0a8aacce33e840b929f8",
+    "url": "/ultimate-color-app/static/js/main.4b9638ee.chunk.js"
   },
   {
     "revision": "70b1dd4444321a4b4013",
