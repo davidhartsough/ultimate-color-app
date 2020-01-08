@@ -1,0 +1,28 @@
+p {
+  font-weight: 400;
+  margin: 0 0 0.5rem 0;
+}
+ul {
+  margin: 0.5rem 0 1rem;
+  padding-inline-start: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  user-select: none;
+  flex: 1 1 50%;
+}
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  width: 13rem;
+}

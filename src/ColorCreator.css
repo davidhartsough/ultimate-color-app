@@ -1,0 +1,33 @@
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+label {
+  display: block;
+  margin: 0.75rem 0;
+}
+input {
+  display: block;
+  height: 2rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  outline: none;
+  width: 100%;
+  margin: 0.25rem 0;
+}
+input:focus {
+  border-color: #146eeb;
+}
+.form,
+.action {
+  max-width: 12rem;
+  margin: 0 auto;
+}
+.action {
+  text-align: center;
+}
+.action button {
+  width: 100%;
+}
